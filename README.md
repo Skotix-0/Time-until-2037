@@ -6,3 +6,5 @@ How to work with it:
 
 Download the project, open the file from the downloaded folder index.html in the browser, everything is ready.
 
+![sdf](https://user-images.githubusercontent.com/59533264/129220548-a76e7191-1f9d-4965-81a3-fa14a4683c8a.png)
+
